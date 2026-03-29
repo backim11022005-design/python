@@ -9,7 +9,7 @@ SPACE_SIZE = 20
 BODY_COLOR = "#2ecc71" # Xanh lá nhẹ
 HEAD_COLOR = "#27ae60" # Xanh lá đậm
 FOOD_COLOR = "#e74c3c" # Màu đỏ táo
-BG_COLOR = "#2c3e50"   # Màu xanh đen hiện đại
+BG_COLOR = "#504b2c"   # Màu xanh đen hiện đại
 
 class SnakeGame:
     def __init__(self, root):
